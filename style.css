@@ -13,7 +13,7 @@
  }
 
  .bar-container {
-     padding: 0 10px;
+     padding: 0 50px;
      box-sizing: border-box;
  }
 
@@ -24,4 +24,5 @@
      height: 50px;
      vertical-align: middle;
      display: inline-block;
+     padding: 25px;
  }
