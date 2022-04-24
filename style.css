@@ -1,0 +1,27 @@
+ body {
+    margin: 0;
+ }
+
+ .top-bar {
+     color: pink;
+     background-color: red;
+     width: 100%;
+     height: 92px;
+     position: relative;
+     top: 0;
+     vertical-align: baseline;
+ }
+
+ .bar-container {
+     padding: 0 10px;
+     box-sizing: border-box;
+ }
+
+ .main-logo {
+     color: #a55e3f;
+     font-size: 32px;
+     margin: auto;
+     height: 50px;
+     vertical-align: middle;
+     display: inline-block;
+ }
